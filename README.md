@@ -41,7 +41,7 @@ This project is designed to solve standard Semidefinite Programming (SDP) proble
 
 ## References
 
-- [Link to Paper (PDF)](https://hsmmoj.github.io/files/SpecBM-SDPs.pdf)
+- [A Spectral Bundle Method for Sparse Semidefinite Programs](https://hsmmoj.github.io/files/SpecBM-SDPs.pdf).
 
 ## License
 
