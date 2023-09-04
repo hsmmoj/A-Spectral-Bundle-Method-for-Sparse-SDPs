@@ -51,5 +51,5 @@ This project is licensed under the [Your License Name or Link](LICENSE). See the
 
 If you have any questions, feedback, or need assistance, please don't hesitate to contact the project maintainer:
 
-- **Your Name**
-- Email: [your@email.com](mailto:your@email.com)
+- **Hesam Mojtahedi**
+- Email: [hmojtahedi@ucsd.edu](hmojtahedi@ucsd.edu)
